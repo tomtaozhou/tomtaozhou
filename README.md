@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tao Zhou</h1>
-<h3 align="center">I am currently a student at DIT.</h3>
+<h3 align="center">I am currently a student at JAIST.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomtaozhou&label=Profile%20views&color=0e75b6&style=flat" alt="tomtaozhou" /> </p>
 
