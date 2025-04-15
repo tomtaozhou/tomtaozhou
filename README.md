@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://zhouedu.net/](https://zhouedu.net/)
 
-- 📫 How to reach me **21te477@ditu.jp**
+- 📫 How to reach me **s2510085@jaist.ac.jp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
